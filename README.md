@@ -12,6 +12,16 @@ It has become abundantly clear that none of the governments nor corporations are
 
 But you know that already, and that's why you're here.
 
+{% hint style="success" %}
+The non-Marvel style heroes,
+
+The ones who are knowledgeable, skilful, passionate, driven, communal,
+
+That's who we need to become.
+
+**We HAVE to be better, stronger, and more resilient than the ones who are wilfully destroying the planet.**
+{% endhint %}
+
 ## Vision
 
 We're here to gather passion, ideas, science, statistics, plans, and more.
