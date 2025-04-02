@@ -62,7 +62,7 @@ Reflection; refraction, projection, calculation, emission, broadcasting, sonic v
 
 ## Concepts to note
 
-* • Any types of automation will be minimal, and will still require the user/operator to think and plan a bit. This maintains a healthy level of interaction with the item, and prevents them from becoming a slave to it and/or becoming unconsciously dependent on its functioning (e.g. setting repeating alarms on a smartphone often results in
+* Any types of automation will be minimal, and will still require the user/operator to think and plan a bit. This maintains a healthy level of interaction with the item, and prevents them from becoming a slave to it and/or becoming unconsciously dependent on its functioning (e.g. setting repeating alarms on a smartphone often results in the alarms' significance fading into the background, and then alarms in general start to lose meaning too
 * only SOME are electrical. Electricity is just one in a class of several energetic motivator quanta. The _His Dark Materials_ universe has _anbaricity_ instead of electricity, but this is the same motive quanta and is just named after amber instead of electrum, the Latin word for amber. _Amber_ is Arabic, from Middle Persian.
 * many may be free-standing, even with only one (or two) points of contact on the ground. This may be achieved by interaction with (as of yet) undetermined fields.
 
